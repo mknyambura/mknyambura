@@ -1,8 +1,9 @@
+
+# Hi there 👋
+
 <p align="center">
   <a href="#"><img src="https://github.com/mknyambura/images/blob/main/photo1656412830.jpeg" alt="header" border="0" raw=True></a>
 </p>
-
-# Hi there 👋
 
 
 # 💫 About Me:
@@ -22,8 +23,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" text-align="center" width="512px"/> -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=mknyambura&icon=7&color=5)](https://visitcount.itsvg.in) -->
 
