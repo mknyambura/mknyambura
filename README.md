@@ -72,8 +72,9 @@ The toolbox below captures programming languages, frameworks and other tools tha
 
 <!-- [![](https://visitcount.itsvg.in/api?id=mknyambura&icon=7&color=5)](https://visitcount.itsvg.in) -->
 
+ <!--
  ## 💰 Buy Me A Coffee
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mknyambura) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mknyambura) -->
 
 
 <!--
