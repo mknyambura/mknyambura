@@ -7,7 +7,7 @@
 
 
  
-🔭 I'm a Software Engineer 💫 with a passion for Science and Human Behavior. 
+🔭 I'm a Data Professional 💫 with a passion for Science and Human Behavior. 
 
 
 
